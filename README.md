@@ -1,6 +1,6 @@
 # Muhammad Subhan
 
-CS student focused on systems programming, low-level engineering, and network security. I build close to the metal — raw sockets, x86 assembly, multi-protocol network simulations — and I am currently expanding into full-stack development and TypeScript.
+Cyber-Security undergraduate student focused on systems programming, low-level engineering, and network security. I build close to the metal — raw sockets, x86 assembly, multi-protocol network simulations.
 
 ## Tech
 
