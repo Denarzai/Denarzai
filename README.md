@@ -4,7 +4,7 @@
 
 [![Blog](https://img.shields.io/badge/Blog-denarzai.github.io-2ea44f?logo=jekyll&logoColor=white)](https://denarzai.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-subhan--cybersec-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhan-cybersec)
-[![Email](https://img.shields.io/badge/Email-sdenarzai78%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:sdenarzai78@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sdenarzai786%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:sdenarzai786@gmail.com)
 
 ## Writeups & Blog
 
@@ -44,4 +44,4 @@ I document everything I learn at **[denarzai.github.io](https://denarzai.github.
 
 ## Contact
 
-📧 sdenarzai78@gmail.com · 💼 [linkedin.com/in/subhan-cybersec](https://www.linkedin.com/in/subhan-cybersec) · 📝 [denarzai.github.io](https://denarzai.github.io)
+📧 sdenarzai786@gmail.com · 💼 [linkedin.com/in/subhan-cybersec](https://www.linkedin.com/in/subhan-cybersec) · 📝 [denarzai.github.io](https://denarzai.github.io)
